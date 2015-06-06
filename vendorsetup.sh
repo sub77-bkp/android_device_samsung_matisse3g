@@ -1,2 +1,2 @@
-add_lunch_combo cm_matisselte-eng
-add_lunch_combo cm_matisselte-userdebug
+add_lunch_combo cm_matisse3g-eng
+add_lunch_combo cm_matisse3g-userdebug

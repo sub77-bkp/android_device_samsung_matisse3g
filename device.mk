@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := device/samsung/matisselte
+LOCAL_PATH := device/samsung/matisse3g
 
 PRODUCT_CHARACTERISTICS := tablet
 
@@ -20,7 +20,7 @@ PRODUCT_CHARACTERISTICS := tablet
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # Proprietary files
-$(call inherit-product, vendor/samsung/matisselte/matisselte-vendor.mk)
+$(call inherit-product, vendor/samsung/matisse3g/matisse3g-vendor.mk)
 
 # Audio configuration
 PRODUCT_COPY_FILES += \

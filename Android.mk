@@ -14,7 +14,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),matisselte)
+ifeq ($(TARGET_DEVICE),matisse3g)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
