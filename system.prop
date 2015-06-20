@@ -1,4 +1,4 @@
-# System.prop for matisselte
+# System.prop for matisse3g
 
 # RIL
 rild.libpath=/system/lib/libsec-ril.so
